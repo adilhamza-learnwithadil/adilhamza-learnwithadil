@@ -2,8 +2,8 @@
 #### Web Devoloper
 ![Web Devoloper](https://www.21kschool.com/blog/wp-content/uploads/2022/08/The-Importance-of-Coding-in-21st-Century-Education.png)
 
-I’m a Front End Web developer. I alawys try to learn new programming languages. I can make any website using HTML5, CSS3, Javascritp.
-I used React as Javascrip framework. I also use Tailwind css and Bootstrap as CSS library.
+I’m a Front End Web developer. 💻I alawys try to learn new programming languages. I can make any website using HTML5, CSS3, Javascritp.
+I used React as Javascrip framework. I also use Tailwind css and Bootstrap as CSS library.🙂
 
 Skills: HTML / CSS / JS / REACT / PHP
 
