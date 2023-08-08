@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Adil Hamza
+#### Web Devoloper
+![Web Devoloper](https://www.21kschool.com/blog/wp-content/uploads/2022/08/The-Importance-of-Coding-in-21st-Century-Education.png)
 
-<!--
-**adilhamza-learnwithadil/adilhamza-learnwithadil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front End Web developer. I alawys try to learn new programming languages. I can make any website using HTML5, CSS3, Javascritp.
+I used React as Javascrip framework. I also use Tailwind css and Bootstrap as CSS library.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / REACT / PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Jacascript and PHP 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Youtube 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adilhamza-learnwithadil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@LearnwithAdil-coding)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/adilhamza-learnwithadil)](https://github.com/anuraghazra/github-readme-stats)
+
