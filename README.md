@@ -13,6 +13,6 @@ Skills: HTML / CSS / JS / REACT / PHP
 - 📫 How to reach me: Youtube 
 
 
-[<img style="color:#F1502F" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adilhamza-learnwithadil)  [<img style="color:#FF0000" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@LearnwithAdil-coding)  
+[<img style='color:orenge;' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/adilhamza-learnwithadil)  [<img style='color:red;' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@LearnwithAdil-coding)  
 
 
