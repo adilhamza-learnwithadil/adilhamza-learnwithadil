@@ -57,6 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true&theme=dracula"
@@ -64,10 +65,17 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true" />
 </picture>
+<div/>
+
+
+<a href="https://github.com/adilhamza-learnwithadil/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilhamza-learnwithadil&layout=compact&langs_count=8&card_width=250" />
+</a>
+
 
 <br/><br/>
 
@@ -76,7 +84,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 </div>
 
 <br/>
