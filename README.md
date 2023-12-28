@@ -60,8 +60,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: merko)"
+    srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adilhamza-learnwithadil&show_icons=true"
