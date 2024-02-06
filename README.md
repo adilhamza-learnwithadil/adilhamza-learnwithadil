@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/)**
 
-⚡ Fun fact **I read in class 6**
+⚡ Fun fact **I read in class 7**
 
  </div>
  
